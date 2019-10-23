@@ -1,6 +1,7 @@
 package endpoints
 
 const (
-	NextBlockTime = "/howlong"
-	Memstats = "/stats/mem"
+	NextBlockTime   = "/howlong"
+	Memstats        = "/stats/mem"
+	ContractMetrics = "/stats/contracts"
 )
