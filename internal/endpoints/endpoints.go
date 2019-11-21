@@ -6,4 +6,5 @@ const (
 	ContractMetrics = "/stats/contracts"
 	Logs            = "/logs"
 	ContractHistory = "/history"
+	RegisterEmail   = "/email/register"
 )
